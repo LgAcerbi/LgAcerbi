@@ -8,7 +8,7 @@ I'm Acerbi, and currently at my 20's. Ready to learn!
 
 <h3> 🛠 &nbsp; Currently learning in: </h3>
 
-![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=c-sharp)
+![CSharp](https://img.shields.io/badge/-C#-333333?style=flat&logo=c-sharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
