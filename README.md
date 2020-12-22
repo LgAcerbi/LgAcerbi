@@ -1,8 +1,10 @@
 <h2> Cheers everyone, this is my profile! </h2>
 I'm Acerbi, and currently at my 20's. Ready to learn!
 
+
 - 🤔 &nbsp; Exploring new technologies and developing.
 - 🎓 &nbsp; Studying Information Systems at Pontifícia Universidade Católica de Minas Gerais.
+
 
 <h3> 🛠 &nbsp; Currently learning in: </h3>
 
