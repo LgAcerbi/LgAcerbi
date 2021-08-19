@@ -21,4 +21,4 @@ I'm Acerbi, and currently at my 20's. Ready to learn!
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LgAcerbi)](https://github.com/LgAcerbi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LgAcerbi&theme=github_dark)](https://github.com/LgAcerbi/github-readme-stats)
